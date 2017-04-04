@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background-color: rgb(35, 35, 35);
+    font-family: "DIN Alternate"; 
+}
+
+h2 {
+    font-size: 20pt;
+    color: rgb(116, 118, 118);
+    margin: 0px 0px 0px 0px; 
+    padding: 0px 0px 0px 0px;
+}
+h1 {
+    font-size: 50pt;
+    color: rgb(253, 201, 101);
+    margin: 0px 0px 0px 0px; 
+    padding: 0px 0px 15px 0px;
+}
+ul {
+    flex-direction: row;
+    list-style: none;
+    font-size: 18pt;     
+        
+}
+a:link {
+    color: skyblue;
+}
+a:visited {
+    color: skyblue;
+}
+
+p {
+    color: rgb(116, 118, 118);
+}
+
+footer {
+     color: rgb(116, 118, 118);
+}
+
